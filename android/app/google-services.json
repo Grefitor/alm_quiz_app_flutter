@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709398981075",
+    "project_id": "fir-authentication-152d3",
+    "storage_bucket": "fir-authentication-152d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709398981075:android:4001a14988f4b45e4e2726",
+        "android_client_info": {
+          "package_name": "com.example.flutter_alm_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709398981075-qqr6oi3ruvfj1hn95f949kg51au0iuk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHEHcoRlCGs7a5TThBLr-ewB4QVry6tME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709398981075-qqr6oi3ruvfj1hn95f949kg51au0iuk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
